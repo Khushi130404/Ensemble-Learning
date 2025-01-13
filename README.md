@@ -4,11 +4,21 @@ This project demonstrates various ensemble learning techniques using Jupyter Not
 
 ## Techniques Covered
 
-The following ensemble methods have been implemented and evaluated in this project:
+The following ensemble methods have been implemented and evaluated in this project :
 - Adaboost (Adaptive Boosting)
 - Bagging (Bootstrap Aggregating)
 - Gradient Boosting
 - Random Forest
 - Stacking Ensemble
 - Voting Ensemble
+
+## Problem Types
+
+The project includes implementations for :
+
+- Regression Problems
+
+- Classification Problems
+
+
 
