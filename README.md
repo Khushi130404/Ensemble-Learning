@@ -20,5 +20,25 @@ The project includes implementations for :
 
 - Classification Problems
 
+## Project Structure
+
+The project is organized into the following sections :
+
+### 1. Data Preprocessing
+   
+- Loading datasets
+- Handling missing values
+
+### 2. Feature scaling
+   
+- Model Implementation
+- Implementing each ensemble technique for regression and classification tasks
+
+### 3. Model Evaluation
+
+- Comparing model performance using metrics such as:
+  - For Regression: Mean Squared Error (MSE), R-Squared (R²)
+  - For Classification: Accuracy, Precision, Recall, F1-Score
+
 
 
