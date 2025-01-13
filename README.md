@@ -72,6 +72,15 @@ The project is organized into the following sections :
 - Combines predictions from multiple models by voting (for classification) or averaging (for regression).
 - Can be hard voting (majority vote) or soft voting (weighted probabilities).
 
+## Tools and Libraries Used
 
+- Jupyter Notebook for interactive code execution
 
+- scikit-learn for implementing ensemble methods
+
+- pandas for data manipulation
+
+- numpy for numerical computations
+
+- matplotlib and seaborn for data visualization
 
